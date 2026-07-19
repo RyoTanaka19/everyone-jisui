@@ -1,5 +1,4 @@
 # みんなと自炊
-## 🔗[みんなと自炊](https://everyone-jisui.vercel.app/)
 ## <img width="1918" height="989" alt="ogp" src="https://github.com/user-attachments/assets/79f6dcf4-9f27-4548-bfec-f730a64cd582" />
 
 
